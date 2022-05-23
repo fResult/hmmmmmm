@@ -23,5 +23,7 @@ yarn dev
 pnpm run dev
 ```
 
+จากนั้นเปิด Browser เข้า url `http://localhost:3000`
+
 ## ภาพตัวอย่าง เมื่อ run app สำเร็จ
 ![Image App](https://user-images.githubusercontent.com/19329932/169893109-99ba1ab8-d47b-40d1-beee-72397701157c.png)

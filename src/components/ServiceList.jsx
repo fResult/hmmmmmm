@@ -14,7 +14,7 @@ const ServiceList = (props) => {
           <ServiceItem
             {...{
               className:
-                'border-b last:border-b-0 border-solid border-gray-400',
+                'last:border-b-0 border-b border-solid border-gray-400',
               // service: service <== same meaning
               service
             }}
